@@ -1,0 +1,17 @@
+LIBRERIAS PYTHON
+
+pip install PyQt5
+pip install Pillow
+pip install pytesseract
+pip install pdf2image
+
+pip install -U pip setuptools wheel
+pip install -U spacy
+python -m spacy download es_core_news_md
+
+pip install fitz
+pip install python-poppler
+pip install PyMuPDF
+pip install pymongo
+pip install openpyxl
+pip install cyhunspell

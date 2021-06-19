@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="fondo">
+    <file>Imagenes/ventana_backgroudn_backgroudn.png</file>
+  </qresource>
+  <qresource prefix="veninicio">
+    <file>Imagenes/vnew_backgroudn.png</file>
+  </qresource>
+  <qresource prefix="icono">
+    <file>Imagenes/AGNICO-03.png</file>
+  </qresource>
+  <qresource prefix="Fondoes1">
+    <file>Imagenes/newinterface_backgroudn.png</file>
+  </qresource>
+  <qresource prefix="fondoblanco">
+    <file>Imagenes/fondoblanco.png</file>
+  </qresource>
+  <qresource prefix="btn2">
+    <file>Imagenes/BtnExcel-12.png</file>
+  </qresource>
+  <qresource prefix="btn3">
+    <file>Imagenes/cargararchivoz-12.png</file>
+  </qresource>
+  <qresource prefix="btn4">
+    <file>Imagenes/metadatos-12.png</file>
+  </qresource>
+  <qresource prefix="btn5">
+    <file>Imagenes/database-12.png</file>
+  </qresource>
+  <qresource prefix="btn7">
+    <file>Imagenes/Btn_Extraer_Individual_Pressed-02.png</file>
+  </qresource>
+  <qresource prefix="btn8">
+    <file>Imagenes/Btn_Extraer_Lote_Pressed-02.png</file>
+  </qresource>
+</RCC>
